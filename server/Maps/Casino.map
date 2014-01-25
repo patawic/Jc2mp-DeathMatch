@@ -1,6 +1,6 @@
 Location(Casino)
 Boundary(2158.231934, 808.517639, 1394.170654, 100)
-Players(10,32)
+Players(2,32)
 CanGrapple(true)
 CanParachute(false)
 Weapons(Handgun,SMG,Assault)

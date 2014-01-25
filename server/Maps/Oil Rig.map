@@ -1,6 +1,6 @@
 Location(Oilrig)
 Boundary(-4910.174316, 258.002930, -1394.719238, 75)
-Players(10,49)
+Players(2,49)
 CanGrapple(true)
 CanParachute(false)
 

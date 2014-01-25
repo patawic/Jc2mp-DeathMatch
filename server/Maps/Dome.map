@@ -1,6 +1,6 @@
 Location(Dome)
 Boundary(0,0,0,20000)
-Players(10,60)
+Players(2,60)
 CanGrapple(false)
 CanParachute(false)
 Weapons(Handgun,SMG,Shotgun)

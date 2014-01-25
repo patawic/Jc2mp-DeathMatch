@@ -1,6 +1,6 @@
 Location(Mile High Club)
 Boundary(0,0,0,20000)
-Players(10,53)
+Players(2,53)
 CanGrapple(true)
 CanParachute(false)
 Weapons(Handgun)
