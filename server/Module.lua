@@ -1,0 +1,1 @@
+Events:Subscribe("ModuleLoad" , function() deathmatch = DeathmatchManager() end)
